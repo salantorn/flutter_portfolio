@@ -1,7 +1,6 @@
 # 💼 Flutter Portfolio
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?logo=flutter&style=flat-square)](https://flutter.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 A beautifully crafted personal portfolio app built with **Flutter**, designed to showcase your projects, skills, and personal profile in a modern and interactive way.
 
