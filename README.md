@@ -17,7 +17,8 @@ A beautifully crafted personal portfolio app built with **Flutter**, designed to
 - ✉️ Contact Me with external links or forms
 
 ---
-![image](https://github.com/user-attachments/assets/edf71d36-85f8-495e-b9e7-1ef97d7a4697)
+You can view this project by this link
+[![image](https://github.com/user-attachments/assets/edf71d36-85f8-495e-b9e7-1ef97d7a4697)](https://salantorn.github.io/flutter_portfolio/)
 
 ## 📸 Screenshots
 
