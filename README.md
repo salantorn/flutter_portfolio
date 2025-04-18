@@ -15,15 +15,16 @@ A beautifully crafted personal portfolio app built with **Flutter**, designed to
 - 🛠️ Skills & Tech Stack
 - 📂 Portfolio/Projects Showcase
 - ✉️ Contact Me with external links or forms
-- 🌗 Dark Mode support *(optional)*
 
 ---
+![image](https://github.com/user-attachments/assets/edf71d36-85f8-495e-b9e7-1ef97d7a4697)
 
 ## 📸 Screenshots
 
-| Home Page | Projects | Contact |
+| Home Page | personal information | Contact |
 |----------|----------|---------|
-| ![home](screenshots/home.png) | ![projects](screenshots/projects.png) | ![contact](screenshots/contact.png) |
+| ![image](https://github.com/user-attachments/assets/333206c0-80b0-4fd8-8add-cf49fe6980cc)| ![image](https://github.com/user-attachments/assets/edf71d36-85f8-495e-b9e7-1ef97d7a4697) | ![image](https://github.com/user-attachments/assets/83cb3ab0-6b76-4a6c-9708-d0fefb8f7fce)
+ |
 
 > *(Add your screenshots to a folder named `screenshots/` and replace above paths)*
 
@@ -36,10 +37,3 @@ A beautifully crafted personal portfolio app built with **Flutter**, designed to
 - [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
 ---
-
-## 📦 Getting Started
-
-1. **Clone this repo**
-   ```bash
-   git clone https://github.com/salantorn/flutter_portfolio.git
-   cd flutter_portfolio
