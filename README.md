@@ -27,8 +27,6 @@ You can view this project by this link
 | ![image](https://github.com/user-attachments/assets/333206c0-80b0-4fd8-8add-cf49fe6980cc)| ![image](https://github.com/user-attachments/assets/edf71d36-85f8-495e-b9e7-1ef97d7a4697) | ![image](https://github.com/user-attachments/assets/83cb3ab0-6b76-4a6c-9708-d0fefb8f7fce)
  |
 
-> *(Add your screenshots to a folder named `screenshots/` and replace above paths)*
-
 ---
 
 ## 🛠️ Built With
